@@ -1,0 +1,17 @@
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\bin\Debug\ExpenseWPFapp.exe.config
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\bin\Debug\ExpenseWPFapp.exe
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\bin\Debug\ExpenseWPFapp.pdb
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseWPFapp.csprojResolveAssemblyReference.cache
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\MainWindow.baml
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\MainWindow.g.cs
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\App.g.cs
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseWPFapp_MarkupCompile.cache
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseWPFapp.g.resources
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseWPFapp.Properties.Resources.resources
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseWPFapp.csproj.GenerateResource.Cache
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseWPFapp.exe
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseWPFapp.pdb
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseHome.baml
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseHome.g.cs
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseReportPage.baml
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseReportPage.g.cs

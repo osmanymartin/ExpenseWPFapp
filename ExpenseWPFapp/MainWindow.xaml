@@ -1,0 +1,7 @@
+﻿<NavigationWindow x:Class="ExpenseWPFapp.MainWindow"   
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ExpenseWPF" Height="375" Width="500"
+        Source="ExpenseHome.xaml">
+
+</NavigationWindow>
