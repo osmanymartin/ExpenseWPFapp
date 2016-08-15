@@ -15,3 +15,5 @@ c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp
 c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseHome.g.cs
 c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseReportPage.baml
 c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseReportPage.g.cs
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\ExpenseWPFapp_MarkupCompile.lref
+c:\users\osman\documents\visual studio 2013\Projects\ExpenseWPFapp\ExpenseWPFapp\obj\Debug\App.baml
